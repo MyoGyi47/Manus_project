@@ -1,0 +1,2 @@
+# Manus_project
+configuration
